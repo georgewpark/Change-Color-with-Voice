@@ -1,5 +1,5 @@
 //DOM load event
-window.addEventListener("DOMContentLoaded",	() => {
+window.addEventListener("DOMContentLoaded", () => {
 
     //Set speech recognition
     window.SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
