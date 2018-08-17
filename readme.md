@@ -3,5 +3,7 @@ This project demonstrates how the JavaScript speech recognition API can be used 
 
 The speech recognition API is currently only [supported by Chrome](https://caniuse.com/#search=speech%20recognition).
 
+![Change Color with Voice Demo](https://github.com/georgewpark/Change-Color-with-Voice/blob/master/demo-gif.gif "Change Color with Voice Demo")
+
 ## Live Demo
 A live demo is available on [CodePen](https://codepen.io/GeorgePark/pen/gKrVJe).
