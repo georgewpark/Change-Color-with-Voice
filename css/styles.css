@@ -42,7 +42,6 @@ h1 {
     border: 2px solid rgba(0, 0, 0, 0.4);
     background-color: var(--cube-color);
     transition: background-color 500ms;
-    opacity: 0.8;
 }
 
 .cube-front {
